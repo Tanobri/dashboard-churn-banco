@@ -45,7 +45,7 @@ python -m http.server 8000
 ```
 
 ## Despliegue
-URL en producción: [Enlace a la app desplegada en GitHub Pages]
+URL en producción: https://tanobri.github.io/dashboard-churn-banco/
 
 ## Autores
 Obrian Sanchez
